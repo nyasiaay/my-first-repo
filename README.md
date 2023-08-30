@@ -1,5 +1,7 @@
-#Nama    : Nyasia Aludra Yasmina
+Nama    : Nyasia Aludra Yasmina
 
-#NPM     : 2206828185
+NPM     : 2206828185
 
-#Kelas   : PBP E
+Kelas   : PBP E
+
+Jurusan : Sistem Informasi
